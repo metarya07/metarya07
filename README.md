@@ -1,12 +1,10 @@
 ﻿<div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=Metarya%20Jain&fontSize=46&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Competitive%20Programmer%20%7C%20Full-Stack%20%26%20AI%20Developer&descFontSize=18&descAlignY=58" width="100%" />
-
-<br/>
+# ⚡ Metarya Jain
+### 🚀 Problem Solver & Software Developer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Passionate+Software+Developer;Turning+Algorithms+into+Impactful+Code;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Competitive+Programmer;Data+Structures+%26+Algorithms+Enthusiast;Full-Stack+%26+AI+Engineer;Building+Scalable+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -19,21 +17,22 @@
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-```yaml
-name: Metarya Jain
-role: Software Developer & Competitive Programmer
-interests: [Data Structures, Algorithms, AI/Vision Models, Full-Stack Engineering]
-current_focus: Mastering Advanced Algorithms & Scalable Distributed Systems
-languages: [Java, Python, C++, JavaScript, TypeScript, SQL]
-location: India 🇮🇳
-status: Always Building & Solving ⚡
+```json
+{
+  "name": "Metarya Jain",
+  "location": "India 🇮🇳",
+  "role": "Software Developer & Competitive Programmer",
+  "focus": ["Data Structures & Algorithms", "Full-Stack Development", "Computer Vision / AI"],
+  "code_streak": "Active ⚡",
+  "motto": "Turning complex algorithmic challenges into elegant software solutions."
+}
 ```
 
 ---
 
-### 🛠️ Languages & Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -45,21 +44,16 @@ status: Always Building & Solving ⚡
 
 ---
 
-### 🌟 Featured Repositories
+### 🏆 Featured Repositories
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
-| 🎯 **[LeetCode-Solutions](https://github.com/metarya07/LeetCode-Solutions)** | Real-time automated sync portfolio with multi-solution versioning and difficulty breakdown. | `Java` `Python` `GitHub Actions` |
-| 🧠 **[facial-emotion-recognition-ensemble](https://github.com/metarya07/facial-emotion-recognition-ensemble)** | Real-time facial emotion recognition using ensemble Vision Transformer (ViT) models. | `Python` `PyTorch` `Computer Vision` |
+| 🎯 **[LeetCode-Solutions](https://github.com/metarya07/LeetCode-Solutions)** | Real-time auto-syncing portfolio with multi-solution versioning & automated commit timelines. | `Java` `Python` `GitHub Actions` |
+| 🧠 **[facial-emotion-recognition-ensemble](https://github.com/metarya07/facial-emotion-recognition-ensemble)** | Real-time facial emotion recognition using ensemble Vision Transformer (ViT) models. | `Python` `PyTorch` `Vision Models` |
 | 🚚 **[last-mile-delivery-tracker](https://github.com/metarya07/last-mile-delivery-tracker)** | Enterprise delivery tracker featuring dynamic volumetric rate engine and RBAC portals. | `JavaScript` `Node.js` `Express` |
 
 ---
 
 <div align="center">
-
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=100&section=footer" width="100%" />
-
-<sub>⭐️ Designed with passion by <a href="https://github.com/metarya07">Metarya Jain</a></sub>
-
+  <sub>⭐ Designed with passion by <b><a href="https://github.com/metarya07">Metarya Jain</a></b> | Always building & solving! 🚀</sub>
 </div>
