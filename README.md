@@ -4,7 +4,7 @@
 ### 🚀 Backend Software Engineer & Competitive Programmer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;High-Performance+Distributed+Systems;Data+Structures+%26+Algorithms+Enthusiast;Building+Scalable+Microservices+%26+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Spring+Boot+%26+Node.js+Microservices;Data+Structures+%26+Algorithms+Enthusiast;Building+Secure+%26+Scalable+Distributed+Systems" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,34 +29,37 @@
 ### 👨‍💻 About Me
 
 - 💼 **Role:** Backend Software Engineer & Competitive Programmer
-- 🎯 **DSA & Problem Solving:** Solved **74+ problems on LeetCode** with consistent active streaks.
-- ⚡ **Core Focus:** Scalable Backend Architecture, Microservices, REST APIs, and Distributed Systems.
-- 🛠️ **Other Profile:** Connect with my other GitHub account at **[@metarya](https://github.com/metarya)**.
-- 💡 **Motto:** *Turning complex algorithmic challenges into high-performance, robust backend solutions.*
+- 🎯 **DSA & Algorithmic Problem Solving:** Solved **74+ problems on LeetCode** with continuous active streaks.
+- ⚡ **Backend & Distributed Systems:** Building secure microservices, enterprise REST APIs, JWT/RBAC security pipelines, and high-concurrency architectures.
+- 🔗 **GitHub Profiles:** Active on **[@metarya07](https://github.com/metarya07)** (current) and **[@metarya](https://github.com/metarya)** (original projects & internship systems).
+- 💡 **Motto:** *Engineering resilient, secure, and scalable backend services from algorithm to production.*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Languages & Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,sql,postgres,mysql,mongodb&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,docker,linux,git,github,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,cpp,c,js,ts&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,git,github,postman,pytorch&theme=dark" />
 
 </div>
 
 ---
 
-### 🏆 Featured Repositories
+### 🏆 Featured Projects & Production Systems
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :---: |
-| 🎯 **[LeetCode-Solutions](https://github.com/metarya07/LeetCode-Solutions)** | Real-time automated sync portfolio with multi-solution versioning & automated commit timelines. | `Java` `Python` `GitHub Actions` |
-| 🚚 **[last-mile-delivery-tracker](https://github.com/metarya07/last-mile-delivery-tracker)** | Enterprise backend delivery tracker featuring dynamic volumetric rate engine and RBAC portals. | `Node.js` `Express` `JavaScript` |
-| 🧠 **[facial-emotion-recognition-ensemble](https://github.com/metarya07/facial-emotion-recognition-ensemble)** | Real-time facial emotion recognition using ensemble Vision Transformer (ViT) models. | `Python` `PyTorch` `Computer Vision` |
+| Project | Description | Tech Stack | Account |
+| :--- | :--- | :---: | :---: |
+| 🛡️ **[secure-file-management-system](https://github.com/metarya/secure-file-management-system)** | Modern secure enterprise file management platform featuring JWT authentication, AES encryption, and multi-tier RBAC. *(Internship)* | `Spring Boot 3.5` `Java 17` `MySQL` `React 19` | [@metarya](https://github.com/metarya) |
+| 🎯 **[LeetCode-Solutions](https://github.com/metarya07/LeetCode-Solutions)** | Real-time automated sync portfolio with multi-solution versioning & automated commit timelines. | `Java` `Python` `GitHub Actions` | [@metarya07](https://github.com/metarya07) |
+| 🚚 **[last-mile-delivery-tracker](https://github.com/metarya07/last-mile-delivery-tracker)** | Enterprise backend delivery tracker featuring dynamic volumetric rate engine, auto driver dispatch, and Brevo alerts. | `Node.js` `Express` `JavaScript` | [@metarya07](https://github.com/metarya07) |
+| 🧠 **[facial-emotion-recognition-ensemble](https://github.com/metarya07/facial-emotion-recognition-ensemble)** | Real-time facial emotion recognition using ensemble Vision Transformer (ViT) models with human-in-the-loop retraining. | `Python` `PyTorch` `Vision Models` | [@metarya07](https://github.com/metarya07) |
+| 📈 **[live-stock-bot](https://github.com/metarya/live-stock-bot)** | Real-time market tracking and automated stock analysis bot. | `CSS` `Web` | [@metarya](https://github.com/metarya) |
+| 🤖 **[AI-Companion](https://github.com/metarya07/AI-Companion)** | Interactive Python-powered conversational AI assistant and task automation system. | `Python` `AI` | [@metarya07](https://github.com/metarya07) |
 
 ---
 
 <div align="center">
-  <sub>⭐ Designed with passion by <b><a href="https://github.com/metarya07">Metarya Jain</a></b> (aka <a href="https://github.com/metarya">@metarya</a>)</sub>
+  <sub>⭐ Designed with passion by <b><a href="https://github.com/metarya07">Metarya Jain</a></b> (<a href="https://github.com/metarya">@metarya</a>) | Open for Opportunities 🚀</sub>
 </div>
