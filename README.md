@@ -10,9 +10,17 @@
 <br/><br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-74%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
-[![GitHub](https://img.shields.io/badge/GitHub-230%2B%20Commits-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metarya07)
+[![GitHub](https://img.shields.io/badge/GitHub-240%2B%20Commits-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metarya07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
+</div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/metarya07/metarya07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
