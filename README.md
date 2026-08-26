@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=Arya%20Jain&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Competitive%20Programmer%20%7C%20Full-Stack%20%26%20AI%20Developer&descFontSize=18&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=220&section=header&text=Metarya%20Jain&fontSize=46&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Competitive%20Programmer%20%7C%20Full-Stack%20%26%20AI%20Developer&descFontSize=18&descAlignY=58" width="100%" />
 
 <br/>
 
@@ -22,7 +22,7 @@
 ### 🚀 About Me
 
 ```yaml
-name: Arya Jain
+name: Metarya Jain
 role: Software Developer & Competitive Programmer
 interests: [Data Structures, Algorithms, AI/Vision Models, Full-Stack Engineering]
 current_focus: Mastering Advanced Algorithms & Scalable Distributed Systems
@@ -30,14 +30,6 @@ languages: [Java, Python, C++, JavaScript, TypeScript, SQL]
 location: India 🇮🇳
 status: Always Building & Solving ⚡
 ```
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=metarya07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -53,15 +45,7 @@ status: Always Building & Solving ⚡
 
 ---
 
-### 🐍 Contribution Activity Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/metarya07/metarya07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</div>
-
----
-
-### 🌟 Featured Projects
+### 🌟 Featured Repositories
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
@@ -76,6 +60,6 @@ status: Always Building & Solving ⚡
 <!-- Animated Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=100&section=footer" width="100%" />
 
-<sub>⭐️ Designed with passion by <a href="https://github.com/metarya07">Arya Jain</a></sub>
+<sub>⭐️ Designed with passion by <a href="https://github.com/metarya07">Metarya Jain</a></sub>
 
 </div>
