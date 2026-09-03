@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 # ⚡ Metarya Jain
-### 🚀 Backend Software Engineer & Competitive Programmer
+### 🚀 FullStack Software Engineer & Competitive Programmer
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Competitive+Programmer+(LeetCode+%26+Codeforces);Spring+Boot+%26+Node.js+Microservices;Building+Secure+%26+Scalable+Distributed+Systems" alt="Typing SVG" />
@@ -29,7 +29,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Role:** Backend Software Engineer & Competitive Programmer
+- 💼 **Role:** FullStack Software Engineer & Competitive Programmer
 - 🎯 **Competitive Programming:** Active on **LeetCode (77+ Solved)** and **Codeforces ([@MetaryaJain](https://codeforces.com/profile/MetaryaJain))**.
 - ⚡ **Backend & Distributed Systems:** Building secure microservices, enterprise REST APIs, JWT/RBAC security pipelines, and high-concurrency architectures.
 - 🔗 **GitHub Profiles:** Active on **[@metarya07](https://github.com/metarya07)** (primary) and **[@metarya](https://github.com/metarya)** (original projects & internship systems).
