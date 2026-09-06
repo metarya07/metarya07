@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-77%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FjYI1cEg6C/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-77%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-MetaryaJain-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MetaryaJain)
 [![GitHub @metarya07](https://img.shields.io/badge/GitHub-@metarya07-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metarya07)
 [![GitHub @metarya](https://img.shields.io/badge/GitHub-@metarya-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metarya)
