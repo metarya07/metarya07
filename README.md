@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # ⚡ Metarya Jain
 ### 🚀 FullStack Software Engineer & Competitive Programmer
@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-85%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-90%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Metarya/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-MetaryaJain-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MetaryaJain)
 [![GitHub @metarya07](https://img.shields.io/badge/GitHub-@metarya07-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metarya07)
 [![GitHub @metarya](https://img.shields.io/badge/GitHub-@metarya-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/metarya)
@@ -27,10 +27,20 @@
 
 ---
 
+### 🧩 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/Metarya/">
+    <img src="https://leetcard.jacoblin.cool/Metarya?theme=dark&font=baloo" alt="LeetCode Stats" />
+  </a>
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 - 💼 **Role:** FullStack Software Engineer & Competitive Programmer
-- 🎯 **Competitive Programming:** Active on **LeetCode (77+ Solved)** and **Codeforces ([@MetaryaJain](https://codeforces.com/profile/MetaryaJain))**.
+- 🎯 **Competitive Programming:** Active on **LeetCode (90+ Solved)** and **Codeforces ([@MetaryaJain](https://codeforces.com/profile/MetaryaJain))**.
 - ⚡ **Backend & Distributed Systems:** Building secure microservices, enterprise REST APIs, JWT/RBAC security pipelines, and high-concurrency architectures.
 - 🔗 **GitHub Profiles:** Active on **[@metarya07](https://github.com/metarya07)** (primary) and **[@metarya](https://github.com/metarya)** (original projects & internship systems).
 - 💡 **Motto:** *Engineering resilient, secure, and scalable backend services from algorithm to production.*
